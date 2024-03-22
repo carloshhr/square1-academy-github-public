@@ -1,6 +1,6 @@
 body {
     color: black;
-    background-color: tomato;
+    background-color: #104C3E;
 }
 
 .container {
@@ -15,4 +15,9 @@ body {
     box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
     padding: 20px;
     border-radius: 20px;
+    background-color: #D3D35D;
+    color: #171717;
+}
+h1 {
+    color: #FBF7F4;
 }
