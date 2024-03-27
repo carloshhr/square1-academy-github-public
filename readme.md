@@ -19,6 +19,6 @@ Para eso cada uno creada un brach con el siguiente nombre:
 
 git branch receta-<tu-nombre>
 
-Cada Integrante va a agregar su receta favorita al card con su nombre.
+Cada Integrante va a agregar su receta favorita al card con su nombre en el archivo index.html
 
 Si el card no esta creado con tu nombre, tomaras un card y lo personalizaras.
